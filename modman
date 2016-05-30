@@ -4,7 +4,7 @@ app/design/frontend/base/default/template/ibanners/ app/design/frontend/communit
 app/design/frontend/base/default/layout/ibanners.xml app/design/frontend/community/default/layout/ibanners.xml
 app/code/community/Fishpig/IBanners/* app/code/community/Fishpig/IBanners/
 app/etc/modules/* app/etc/modules/
-skin/adminhtml/default/default/iBanners.css skin/adminhtml/default/default/iBanners.css 
+skin/adminhtml/default/default/ibanners.css skin/adminhtml/default/default/ibanners.css
 skin/frontend/base/default/images/ibanners/ skin/frontend/default/default/images/ibanners/
 skin/frontend/base/default/css/ibanners.css skin/frontend/default/default/css/ibanners.css 
 js/fishpig/                                                  js/fishpig/
